@@ -84,9 +84,9 @@ plt.show()
 
 ```
 
-</details>
+</details><br>
 
-<details><summary>Two Lines Same Plot</summary>
+<details><summary><b>Two Lines Same Plot</b></summary>
 
 ```python
 import matplotlib.pyplot as plt
